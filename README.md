@@ -1,7 +1,7 @@
 
 ### <h2>Hello there 👋! I'm Nicolas.
   </br>
-<img align="center" src="https://media3.giphy.com/media/kWZ6qkR5GobsGqw3lT/giphy.gif?cid=790b761142a0db0cf0c0e44971df4811b69f7b67d1668022&rid=giphy.gif&ct=g" width="600" height="300" />
+<img align="center" src="https://media3.giphy.com/media/kWZ6qkR5GobsGqw3lT/giphy.gif?cid=790b761142a0db0cf0c0e44971df4811b69f7b67d1668022&rid=giphy.gif&ct=g" width="100%" height="450" />
 
 
 </br></br></br>
