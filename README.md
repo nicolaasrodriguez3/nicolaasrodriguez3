@@ -28,6 +28,11 @@ const aboutMe = {
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 </br></br></br>
 
+### Some of my Projects 💻 &nbsp; </br>
+
+
+<a href ="https://maxoildistribuciones.000webhostapp.com/">MaxOil Distribuciones: Website</a> </br></br>
+<a href ="https://nicolaasrodriguez3.github.io/javascript-coderhouse/#/">Web App:Javascript using JQuery</a>
 
 
 
